@@ -1,0 +1,10 @@
+{
+  "files.autoSave": "afterDelay",
+  "html.format.wrapAttributes": "force-aligned",
+  "cSpell.ignoreWords": [
+    "form",
+    "harkness",
+    "minlength",
+    "signup"
+  ]
+}
